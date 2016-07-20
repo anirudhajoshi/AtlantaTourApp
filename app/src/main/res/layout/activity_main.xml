@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/tan_background"
+    android:orientation="vertical"
+    tools:context="com.example.android.atlantatourapp.MainActivity">
+
+    <!-- Information Header -->
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1.0">
+
+        <TextView
+            android:id="@+id/info_header"
+            style="@style/LocationHeaderStyle"
+            android:text="@string/info_header" />
+    </FrameLayout>
+
+    <!-- Locations  -->
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1.0"
+        android:background="@color/atl_attractions">
+
+        <TextView
+            android:id="@+id/atl_attractions"
+            style="@style/CategoryStyle"
+            android:text="@string/atl_attractions" />
+    </FrameLayout>
+
+    <!-- Attraction 2 - Fox Theater -->
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1.0"
+        android:background="@color/atl_parks">
+
+        <TextView
+            android:id="@+id/atl_parks"
+            style="@style/CategoryStyle"
+            android:text="@string/atl_parks" />
+    </FrameLayout>
+
+    <!-- Attraction 3 - Childrens Museum -->
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1.0"
+        android:background="@color/atl_eats">
+
+        <TextView
+            android:id="@+id/atl_eats"
+            style="@style/CategoryStyle"
+            android:text="@string/atl_eats" />
+    </FrameLayout>
+
+    <!-- Attraction 4 - Atlanta History Center -->
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1.0"
+        android:background="@color/atl_concerts">
+
+        <TextView
+            android:id="@+id/atl_concerts"
+            style="@style/CategoryStyle"
+            android:text="@string/atl_concerts" />
+    </FrameLayout>
+
+</LinearLayout>

@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">Atlanta Tour App</string>
+
+    <!-- Information Header for App -->
+    <string name="info_header">This app lists 4 categories of things to do in Atlanta. Please click on any of the categories below to view.</string>
+
+    <!-- Atlanta Attractions -->
+    <string name="atl_attractions">Atlanta Attractions</string>
+    <string name="atl_attractions_stonemountain">Stone Mountain</string>
+    <string name="atl_attractions_stonemountain_address">Address:\n1000 Robert E. Lee Blvd.\nStone Mountain, GA 30083</string>
+    <string name="atl_attractions_stonemountain_hours">Hours:\nDaily, 9:00 a.m. - 5:00 p.m. EST</string>
+    <string name="atl_attractions_stonemountain_phone">Phone:\n1-800-401-2407</string>
+
+    <string name="atl_attractions_ahc">Atlanta History Center</string>
+    <string name="atl_attractions_ahc_address">Address:\n130 West Paces Ferry Road NW\nAtlanta, GA 30305</string>
+    <string name="atl_attractions_ahc_hours">Hours:\nDaily, 9:00 a.m. - 5:00 p.m. EST</string>
+    <string name="atl_attractions_ahc_phone">Phone:\n(404)814-4000</string>
+
+    <!-- Atlanta Parks -->
+    <string name="atl_parks">Atlanta Parks</string>
+    <string name="atl_parks_southbend">South Bend Park</string>
+    <string name="atl_parks_southbend_address">Address:\n1955 Compton Dr SE.\nAtlanta, GA 30083</string>
+    <string name="atl_parks_southbend_hours">Hours:\nOpens at 11:00 AM</string>
+    <string name="atl_parks_southbend_phone">Phone:\n(404)446-6788</string>
+
+    <string name="atl_parks_olympic">Centennial Olympic Park</string>
+    <string name="atl_parks_olympic_address">Address:\n265 Park Ave W NW\nAtlanta, GA 30300</string>
+    <string name="atl_parks_olympic_hours">Hours:\nOpen until 11:00 PM</string>
+    <string name="atl_parks_olympic_phone">Phone:\n(404)223-4412</string>
+
+    <!-- Atlanta Eats -->
+    <string name="atl_eats">Atlanta Eats</string>
+    <string name="atl_eats_sotto">Sotto Sotto</string>
+    <string name="atl_eats_sotto_address">Address:\n313 North Highland Avenue Northeast\nAtlanta, GA 30083</string>
+    <string name="atl_eats_sotto_hours">Hours:\nOpens at 5.30 PM</string>
+    <string name="atl_eats_sotto_phone">Phone:\n(404)546-5788</string>
+
+    <string name="atl_eats_foxbros">Fox Bros. Bar-B-Q</string>
+    <string name="atl_eats_foxbros_address">Address:\n1238 DeKalb Ave NE\nAtlanta, GA 30300</string>
+    <string name="atl_eats_foxbros_hours">Hours:\nOpens at 11:00 AM</string>
+    <string name="atl_eats_foxbros_phone">Phone:\n(404)223-4412</string>
+
+    <!-- Atlanta Concerts -->
+    <string name="atl_concerts">Atlanta Concerts</string>
+    <string name="atl_concerts_snoop">Snoop</string>
+    <string name="atl_concerts_snoop_address">Lakewood Amphitheatre</string>
+    <string name="atl_concerts_snoop_hours">Hours:\nOpens at 5.30 PM</string>
+    <string name="atl_concerts_snoop_phone">Phone:\n(404)546-6688</string>
+
+    <string name="atl_concerts_crows">Counting Crows</string>
+    <string name="atl_concerts_crows_address">Phipps Arena</string>
+    <string name="atl_concerts_crows_hours">Hours:\nOpens at 5.30 PM</string>
+    <string name="atl_concerts_crows_phone">Phone:\n(404)546-1788</string>
+
+</resources>
